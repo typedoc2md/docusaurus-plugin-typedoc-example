@@ -7,6 +7,6 @@ These statuses indicate the current state of a billing transaction in the proces
 
 | Enumeration Member | Value | Description |
 | ------ | ------ | ------ |
-| `Completed` | `"Completed"` | Transaction has been successfully processed. |
-| `Failed` | `"Failed"` | Transaction failed due to an error or rejection. |
-| `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. |
+| <a id="completed"></a> `Completed` | `"Completed"` | Transaction has been successfully processed. |
+| <a id="failed"></a> `Failed` | `"Failed"` | Transaction failed due to an error or rejection. |
+| <a id="pending"></a> `Pending` | `"Pending"` | Transaction has been initiated but not yet processed. |

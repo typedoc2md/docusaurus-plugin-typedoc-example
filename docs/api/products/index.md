@@ -2,16 +2,14 @@
 
 This module contains types and services related to product management.
 
-## Index
-
-### Classes
+## Classes
 
 | Class | Description |
 | ------ | ------ |
 | [ProductInventory](classes/ProductInventory.md) | Class representing a product inventory. |
 | [ProductReviewService](classes/ProductReviewService.md) | Service for managing product reviews. |
 
-### Interfaces
+## Interfaces
 
 | Interface | Description |
 | ------ | ------ |
@@ -19,7 +17,7 @@ This module contains types and services related to product management.
 | [ProductDetails](interfaces/ProductDetails.md) | Interface representing product details. Extends the basic Product interface to include more comprehensive attributes for detailed product management. |
 | [ProductReview](interfaces/ProductReview.md) | Interface representing a product review. |
 
-### Enumerations
+## Enumerations
 
 | Enumeration | Description |
 | ------ | ------ |

@@ -2,16 +2,14 @@
 
 This module contains types and services related to customer management.
 
-## Index
-
-### Classes
+## Classes
 
 | Class | Description |
 | ------ | ------ |
 | [CustomerAccount](classes/CustomerAccount.md) | Class representing a customer account. Manages and integrates different aspects of customer data and interactions with the business. |
 | [CustomerService](classes/CustomerService.md) | Service for managing customers. |
 
-### Interfaces
+## Interfaces
 
 | Interface | Description |
 | ------ | ------ |
@@ -20,7 +18,7 @@ This module contains types and services related to customer management.
 | [CustomerContact](interfaces/CustomerContact.md) | Interface representing customer contact information. Essential for communication and service delivery. |
 | [CustomerOrderHistory](interfaces/CustomerOrderHistory.md) | Interface representing a customer's order history. Useful for tracking past transactions and analyzing customer behavior. |
 
-### Enumerations
+## Enumerations
 
 | Enumeration | Description |
 | ------ | ------ |
