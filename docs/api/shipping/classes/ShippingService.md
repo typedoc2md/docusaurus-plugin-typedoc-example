@@ -13,7 +13,7 @@ new ShippingService(): ShippingService
 
 #### Returns
 
-[`ShippingService`](ShippingService.md)
+`ShippingService`
 
 ## Methods
 

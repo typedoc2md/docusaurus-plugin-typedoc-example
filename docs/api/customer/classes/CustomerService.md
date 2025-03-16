@@ -12,7 +12,7 @@ new CustomerService(): CustomerService
 
 #### Returns
 
-[`CustomerService`](CustomerService.md)
+`CustomerService`
 
 ## Methods
 
